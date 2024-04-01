@@ -1,12 +1,13 @@
 # K0la's Hangman 👽
 
 
-
 ## 🌐 Website informations
+- **💻 WebSite**: [Hangman url](https://hangman.arthur-zachary.dev)
+- **🕵️ Github Hangman**: [Hangman](https://github.com/K0ola/Hangman)
 
+## 👽 Dev by K0LA
 - **🤖 Portfolio**: [arthur-zachary.dev](https://arthur-zachary.dev)
 - **💻 GitHub**: [K0ola](https://github.com/K0ola)
-- **🕵️ Github Hangman**: [Hangman](https://github.com/K0ola/Hangman)
 
 ## 📱 Social Networks 
 
