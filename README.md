@@ -2,8 +2,8 @@
 
 
 ## 🌐 Website informations
-- **💻 WebSite**: [Hangman url](https://hangman.arthur-zachary.dev)
-- **🕵️ Github Hangman**: [Hangman](https://github.com/K0ola/Hangman)
+- **💻 WebSite**: [https://hangman.arthur-zachary.dev](https://hangman.arthur-zachary.dev)
+- **🕵️ Github Hangman**: [K0ola/Hangman](https://github.com/K0ola/Hangman)
 
 ## 👽 Dev by K0LA
 - **🤖 Portfolio**: [arthur-zachary.dev](https://arthur-zachary.dev)
