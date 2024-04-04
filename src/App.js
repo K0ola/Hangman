@@ -1,5 +1,5 @@
 import React from 'react';
-import Scene from './Scene';
+// import Scene from './Scene';
 import Game from './game/game';
 import './styles/app.css';
 
@@ -8,7 +8,7 @@ function App() {
     <div>
       <h1> </h1>
       <Game />
-      <Scene />
+      {/* <Scene /> */}
     </div>
   );
 }
