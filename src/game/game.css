@@ -1,5 +1,6 @@
-
-
+body{
+  background-color: black;
+}
 .Game {
     display: flex;
     flex-direction: column;
